@@ -18,8 +18,7 @@ On evolutionary level we have invested a lot into that part of our brain. Monkey
 communication skills, but instead they have an extraordinary short term memory. Here is a fun video of monkey memorizing the position
 of all the numbers in an instant.
 
-<iframe width="420" height="315" src="https://youtu.be/qyJomdyjyvM" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qyJomdyjyvM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
