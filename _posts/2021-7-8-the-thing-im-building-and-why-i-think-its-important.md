@@ -18,8 +18,7 @@ On evolutionary level we have invested a lot into that part of our brain. Monkey
 communication skills, but instead they have an extraordinary short term memory. Here is a fun video of monkey memorizing the position
 of all the numbers in an instant.
 
-# fun monkey video
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Consider: millions of years ago our antecedents gave a massive sacrifice of their left hemisphere.<br><br>We lost a tremendous amount of short term memory and replaced it with Broca’s, Wernicke &amp; the phonological loop.<br><br>But why?<br><br>So we can—talk.<br><br>Thus chimpanzees can do this—we can’t: <a href="https://t.co/CDznxg37p1">pic.twitter.com/CDznxg37p1</a></p>&mdash; Brian Roemmele (@BrianRoemmele) <a href="https://twitter.com/BrianRoemmele/status/1213860120058220546?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe width="420" height="315" src="https://youtu.be/qyJomdyjyvM" frameborder="0" allowfullscreen></iframe>
 
 
 
