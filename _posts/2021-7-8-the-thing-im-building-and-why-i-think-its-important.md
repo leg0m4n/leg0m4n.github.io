@@ -13,20 +13,27 @@ Fun fact, 'Sapiens' comes from latin and means 'wiser'.
 
 the Cognitive Revolution (70,000 years ago), the Agricultural Revolution (10,000 years ago), and the Scientific Revolution (500 years ago
 
-The reason to such a crazy development humans expirienced, was due to our exrtraordinary communcation abilities.
+The reason for such a crazy development humans expirienced, was due to our exrtraordinary communcation abilities.
 On evolutionary level we have invested a lot into that part of our brain. Monkeys for example are lacking such an advanced 
 communication skills, but instead they have an extraordinary short term memory. Here is a fun video of monkey memorizing the position
 of all the numbers in an instant.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qyJomdyjyvM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ravykEih1rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+We are very effective at preserving and communicating information between each other.
+But if you take two people on internet the chance they will understand each other is no more than 18%.
+Why?
+
+Because, despite being such an effective communicators, we still have 6,500 languages and most of us speak mostly 1-2 languages.
+
+Imagine the future where you can understand anyone.
+Every piece of content: text, audio, video, is in your language. Whenever someone speaks you start hearing them in your own language.
 
 
 
 
 
 
-# Demo goes here
+### Demo goes here
 
 
