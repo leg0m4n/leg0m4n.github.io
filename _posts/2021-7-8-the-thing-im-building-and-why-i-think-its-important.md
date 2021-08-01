@@ -20,6 +20,7 @@ of all the numbers in an instant.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ravykEih1rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 We are very effective at preserving and communicating information between each other.
 But if you take two people on internet the chance they will understand each other is no more than 18%.
 Why?
