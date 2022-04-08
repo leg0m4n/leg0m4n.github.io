@@ -9,7 +9,6 @@ The main reason we won the evolution is because we are very good at communicatin
 When xxx years ago during evolution monkeys chose really good short term memory, we instead decided that speech would be more useful. Here is a fun video of monkey memorizing the position of all the numbers in an instant:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ravykEih1rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 And this is how we won.
 
 If we look closer at the history of humans, we can see that progress was happening the most when there was a new breakthrough in communications. Speech, Writing, Printing Press, Mass production of books, telegraph, phone, internet. Today, anyone and any information in the world is at the tips of your fingers. Now, what? Where else can we go from here? At first sight, it seems like all communication problems have been solved. Success.
