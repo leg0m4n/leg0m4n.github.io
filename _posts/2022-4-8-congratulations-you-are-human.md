@@ -23,7 +23,7 @@ It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in drop
 
 \* here will be a video of Lex Fridman with a dropdown menu to choose language from here: [https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g](https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g) \*
 
-If you want to reach more people across the world, but 150$/minute from conventional dubbing studios is too much, we would be happy to help at [Blanc](https://useblanc.com)
+If you want to reach more people across the world, but 150$/minute from conventional dubbing studios is too much, we would be happy to help at [Blanc](https://useblanc.com).
 We also have API for complete video, audio, text translations in private beta, for platforms/messengers/bots, if you'd like to expand globaly, write to me directly in twitter or email below.
 
 
