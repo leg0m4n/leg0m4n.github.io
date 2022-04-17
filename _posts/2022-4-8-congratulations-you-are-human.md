@@ -14,7 +14,7 @@ If we look closer at the history of humans, we can see that progress was happeni
 
 The best way to see, what's next is to zoom out, to see how things are on a greater scale. That’s how I understand “build things that don’t scale” by PG. Things don't scale until they do. Take for example messengers, a great achievement of the last communication leap, they work great, you can call anyone in the world, right? You pick a messenger, you call your friend in China, and what do you hear first? “嗨你過的怎麼樣?” How’s your communication thingy going? There are at max 20% of people on Earth who you can understand. The truth is we are still just a bunch of tribes.
 
-Maybe some of you may say that eventually everyone will just learn English. Fair idea. But, how many generations should pass to teach the whole planet English? Too many, in my humble opinion. Not even taking into account the importance of preserving the culture. Last time, someone \*khm\* Britain tried to teach someone English, it didn't end well. 
+Maybe some of you may say that eventually everyone will just learn English. Fair idea. But, how many generations should pass to teach the whole planet English? Too many, in my humble opinion. Not even taking into account the importance of preserving the culture. Last time, someone \**khm\** Britain tried to teach someone English, it didn't end well. 
 
 The solution that we are working on at Blanc, is to use AI to translate all types of information(video, audio, text — all real time eventually) into all languages. Universal AI translation engine. What will happend when billions of people have access to high quality translations? It will be like the first PC in the world of room-sized servers. 
 
