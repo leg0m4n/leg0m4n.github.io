@@ -34,7 +34,6 @@ It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in a dr
 				theIframe.src = theUrl;
 		}
 </script>```
-
 <label for="language">Choose language:</label>
 <select name="location" id="location" onchange="setIframeSource()">
 <option value="https://youtu.be/PnzIaKz5VdA">Mandarin</option>
