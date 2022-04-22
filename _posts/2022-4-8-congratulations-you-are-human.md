@@ -24,7 +24,7 @@ It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in a dr
 
 \* here will be a video of Lex Fridman with a dropdown menu to choose language from here: [https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g](https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g) \*
 
-```<script>
+<script>
 		function setIframeSource() {
 				// behavior of myIframe
 				var theSelect = document.getElementById('location');
@@ -33,7 +33,7 @@ It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in a dr
 				theUrl = theSelect.options[theSelect.selectedIndex].value;
 				theIframe.src = theUrl;
 		}
-</script>```
+</script>
 <label for="language">Choose language:</label>
 <select name="location" id="location" onchange="setIframeSource()">
 <option value="https://youtu.be/PnzIaKz5VdA">Mandarin</option>
