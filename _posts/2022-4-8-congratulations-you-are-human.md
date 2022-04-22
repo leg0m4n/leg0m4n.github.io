@@ -35,12 +35,12 @@ It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in a dr
 		}
 </script>
 <label for="language">Choose language:</label>
-<select name="location" id="location" onchange="setIframeSource()">
+<select id="location" onchange="setIframeSource()">
 <option value="https://youtu.be/PnzIaKz5VdA">Mandarin</option>
   <option value="https://youtu.be/5N283BZhN-s">Spanish</option>
   <option value="https://youtu.be/UltGR-tFZv0">Russian</option>
 </select>
-<iframe id="youtube" width="560" height="315" src="https://youtu.be/PnzIaKz5VdA" frameborder="0" allowfullscreen></iframe>
+<iframe id="youtube" width="560" height="315" src="https://youtu.be/PnzIaKz5VdA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If this is something that you are excited about as well, my Twitter DMs are open or email below, and I am happy to talk with anyone.
 
