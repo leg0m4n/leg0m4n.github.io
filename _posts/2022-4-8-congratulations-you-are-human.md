@@ -36,11 +36,11 @@ console.log(theIframe.src);
 </script>
 <label for="language">Choose language:</label>
 <select id="location" onchange="setIframeSource()">
-<option value="https://youtu.be/PnzIaKz5VdA">Mandarin</option>
-<option value="https://youtu.be/5N283BZhN-s">Spanish</option>
-<option value="https://youtu.be/UltGR-tFZv0">Russian</option>
+<option value="https://youtube.com/embed/PnzIaKz5VdA">Mandarin</option>
+<option value="https://youtube.com/embed/5N283BZhN-s">Spanish</option>
+<option value="https://youtube.com/embed/UltGR-tFZv0">Russian</option>
 </select>
-<iframe id="youtube" width="560" height="315" src="https://youtu.be/PnzIaKz5VdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="youtube" width="560" height="315" src="https://youtube.com/embed/PnzIaKz5VdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If this is something that you are excited about as well, my Twitter DMs are open or email below, and I am happy to talk with anyone.
 
