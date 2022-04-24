@@ -23,7 +23,6 @@ This is what we can do right now in a semi automatic mode — proof read by nati
 It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in a dropdown menu):
 
 \* here will be a video of Lex Fridman with a dropdown menu to choose language from here: [https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g](https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g) \*
-<head>
 <script>
 		function setIframeSource() {
 				// behavior of myIframe
@@ -32,9 +31,9 @@ It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in a dr
 				var theUrl;
 				theUrl = theSelect.options[theSelect.selectedIndex].value;
 				theIframe.src = theUrl;
+				console.log(theIframe.src);
 		}
 </script>
-</head>
 <label for="language">Choose language:</label>
 <select id="location" onchange="setIframeSource()">
 <option value="https://youtu.be/PnzIaKz5VdA">Mandarin</option>
