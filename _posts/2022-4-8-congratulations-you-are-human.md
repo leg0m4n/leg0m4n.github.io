@@ -21,8 +21,6 @@ The solution that we are working on at [Blanc](https://useblanc.com), is to use 
 
 This is what we can do right now in a semi automatic mode — proof read by native speaker at the end of our ML pipeline(full automatic mode is coming out in 6 month, will write another post about it):
 It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in a dropdown menu):
-
-\* here will be a video of Lex Fridman with a dropdown menu to choose language from here: [https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g](https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g) \*
 <script>
 function setIframeSource() {
 // behavior of myIframe
@@ -34,6 +32,8 @@ theIframe.src = theUrl;
 console.log(theIframe.src);
 }
 </script>
+
+
 <label for="language">Choose language:</label>
 <select id="location" onchange="setIframeSource()">
 <option value="https://youtube.com/embed/PnzIaKz5VdA">Mandarin</option>
