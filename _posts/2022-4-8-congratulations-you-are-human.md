@@ -24,21 +24,21 @@ It's a video of Lex Fridman talking in Mandarin, Spanish, Russian(choose in a dr
 
 \* here will be a video of Lex Fridman with a dropdown menu to choose language from here: [https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g](https://twitter.com/leg0m4n/status/1511122732959813638?s=21&t=HIe8H8SEjF6VdEeLZRk46g) \*
 <script>
-		function setIframeSource() {
-				// behavior of myIframe
-				var theSelect = document.getElementById('location');
-				var theIframe = document.getElementById('youtube');
-				var theUrl;
-				theUrl = theSelect.options[theSelect.selectedIndex].value;
-				theIframe.src = theUrl;
-				console.log(theIframe.src);
-		}
+function setIframeSource() {
+// behavior of myIframe
+var theSelect = document.getElementById('location');
+var theIframe = document.getElementById('youtube');
+var theUrl;
+theUrl = theSelect.options[theSelect.selectedIndex].value;
+theIframe.src = theUrl;
+console.log(theIframe.src);
+}
 </script>
 <label for="language">Choose language:</label>
 <select id="location" onchange="setIframeSource()">
 <option value="https://youtu.be/PnzIaKz5VdA">Mandarin</option>
-  <option value="https://youtu.be/5N283BZhN-s">Spanish</option>
-  <option value="https://youtu.be/UltGR-tFZv0">Russian</option>
+<option value="https://youtu.be/5N283BZhN-s">Spanish</option>
+<option value="https://youtu.be/UltGR-tFZv0">Russian</option>
 </select>
 <iframe id="youtube" width="560" height="315" src="https://youtu.be/PnzIaKz5VdA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
