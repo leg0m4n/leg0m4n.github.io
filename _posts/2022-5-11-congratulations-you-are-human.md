@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratualtions, you are human! 
+title: Congratulations, you are human! 
 ---
 
 Hi, human being. 50 - 70 millennia ago, your great ancestors invented speech. 5 millennia ago, your other ancestors invented writing. That's the only reason why me and you can communicate through this text right now. Although this communication is one sided, I still find it to be a miracle. I am writing this text on April 10th, 2022, you are reading it sometime in the future. If there's one thing we can say about humans and why we are so successful as a species, is that we are great at communicating. That's our superpower.
