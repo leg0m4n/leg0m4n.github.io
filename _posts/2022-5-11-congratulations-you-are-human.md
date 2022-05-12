@@ -5,7 +5,7 @@ title: Congratualtions, you are human!
 
 Hi, human being. 50 - 70 millennia ago, your great ancestors invented speech. 5 millennia ago, your other ancestors invented writing. That's the only reason why me and you can communicate through this text right now. Although this communication is one sided, I still find it to be a miracle. I am writing this text on April 10th, 2022, you are reading it sometime in the future. If there's one thing we can say about humans and why we are so successful as a species, is that we are great at communicating. That's our superpower.
 
-When during evolution monkeys chose really good short term memory, we were betting on speech. Both on physiological and cognitive levels, we were striving to become better at communicating. This is how we won. Here is a fun video of a monkey memorizing the position of all the numbers in an instant, what no human can do:
+When during evolution monkeys chose really good short term memory, we were betting on speech. Both on physiological and cognitive levels, we were striving to become better at communicating. This is how we won. Here is a fun video of a monkey memorizing the position of all numbers in an instant, what no human can do:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ravykEih1rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Fun trick, monkey, but speech is cooler!
