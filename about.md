@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Oh, hi, internet traveler! My name is Rich.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I live in Toronto, Canada.
+I am a proud immigrant... from Moscow, Russia(*in a scary voice*)
+
+Have been studying Math and Physics at University of Toronto and dropped out at year #4.
+I have a startup [Blanc](https://useblanc.com), go check it out, it's pretty cool. We do Deep Video Translations.
+I made this term up because, it kinda hasn't really existed before us(or at least we are the first to make money doing it).
+It means exactly what you think.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
