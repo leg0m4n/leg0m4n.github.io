@@ -8,7 +8,7 @@ permalink: /about/
 Oh, hi, internet traveler! My name is Rich.
 
 I live in Toronto, Canada.
-I am a proud immigrant... from Moscow, Russia(*in a scary voice*)
+Immigrated here from Moscow, Russia in 2017.
 
 Have been studying Math and Physics at University of Toronto and dropped out at year #4.
 I have a startup [Blanc](https://useblanc.com), go check it out, it's pretty cool. We do Deep Video Translations.
